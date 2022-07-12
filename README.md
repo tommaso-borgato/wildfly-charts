@@ -15,8 +15,8 @@ The `wildfly` Chart can be installed from the [https://docs.wildfly.org/wildfly-
 $ helm repo add wildfly https://docs.wildfly.org/wildfly-charts/
 "wildfly" has been added to your repositories
 $ helm search repo wildfly
-NAME                    CHART VERSION   APP VERSION     DESCRIPTION
-wildfly/wildfly         1.0.0           22.0            Build and Deploy WildFly applications on OpenShift
+NAME                  	CHART VERSION	APP VERSION	DESCRIPTION                                    
+wildfly/wildfly       	2.0.3        	           	Build and Deploy WildFly applications on OpenShift
 ````
 
 ## WildFly Charts docs
